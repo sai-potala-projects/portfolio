@@ -50,6 +50,9 @@
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
   },
+  "engines": {
+    "node": "16"
+  },
   "browserslist": {
     "production": [
       ">0.2%",

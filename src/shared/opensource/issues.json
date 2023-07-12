@@ -12,8 +12,8 @@
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Sai Venkat",
+            "url": "https://github.com/sai-potala"
           },
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/78194266?u=1270684640732eaea36ac2d1725160fec0747089&v=4",
@@ -77,18 +77,18 @@
       "closed": true,
       "title": "Adding @L-Pandey as doc contributor.",
       "createdAt": "2022-03-27T22:31:19Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn/issues/1",
+      "url": "",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "explainable-cnn",
-        "url": "https://github.com/ashutosh1919/explainable-cnn",
+        "url": "",
         "owner": {
-          "login": "ashutosh1919",
+          "login": "",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": ""
         }
       }
     },
@@ -97,14 +97,14 @@
       "closed": false,
       "title": "Remove react-responsive",
       "createdAt": "2022-03-13T13:49:15Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/73",
+      "url": "",
       "number": 73,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Sai Venkat",
+            "url": "https://github.com/sai-potala"
           },
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/62668827?u=6c31a500727e963282838c1570eea225a7626f6f&v=4",
@@ -115,11 +115,11 @@
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "",
         "owner": {
-          "login": "ashutosh1919",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "login": "",
+          "avatarUrl": "",
+          "url": "https://github.com/sai-potala"
         }
       }
     },
